@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "diamond-duplicates",
+	"version": "${version}",
+	"name": "diamond-duplicates",
+	"description": "Recipes to duplicate certain items with diamonds",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
