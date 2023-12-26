@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "^": {
+      "item": "minecraft:diamond"
+    },
+    "O": {
+      "item": "netherite_chestplate"
+    }
+  },
+  "pattern": [
+    " ^ ",
+    "^O^",
+    " ^ "
+  ],
+  "result": {
+    "count": 2,
+    "item": "netherite_chestplate"
+  },
+  "show_notification": true
+}
