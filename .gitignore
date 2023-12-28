@@ -40,3 +40,4 @@ replay_*.log
 *.jfra
 
 deploy.sh
+sauce
