@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "diamond-duplicates",
+	"id": "diamond_duplicates",
 	"version": "${version}",
-	"name": "diamond-duplicates",
+	"name": "diamond_duplicates",
 	"description": "Recipes to duplicate certain items with diamonds",
 	"authors": [
 		"Me!"
@@ -14,6 +14,7 @@
 	"entrypoints": {
 	},
 	"mixins": [
+		"diamond_duplicates.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.21",

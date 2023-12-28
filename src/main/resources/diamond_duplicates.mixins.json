@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.github.lineartom.diamond_duplicates.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"CraftingMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
