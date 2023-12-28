@@ -22,7 +22,7 @@ loom {
     splitEnvironmentSourceSets()
 
 	mods {
-		"diamond-duplicates" {
+		"diamond_duplicates" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
